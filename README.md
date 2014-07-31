@@ -1,4 +1,4 @@
-# HOUSE RANTHONY
+HOUSE RANTHONY
 ==============
 
 ## Living Room
@@ -23,7 +23,7 @@
 
 * Kitchen island
 
-### Needs
+### Need
 
 * plates, bowls, cups, utensils
 
