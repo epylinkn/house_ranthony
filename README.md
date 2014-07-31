@@ -1,4 +1,30 @@
-house_ranthony
+# HOUSE RANTHONY
 ==============
 
-Winter is Coming
+## Living Room
+
+### Have
+
+* TV
+
+### Need
+
+* couch x 2
+* large coffee table
+* reading chair
+
+## Dining Room
+
+* dining table (conference table)
+
+## Kitchen
+
+### Have
+
+* Kitchen island
+
+### Needs
+
+* plates, bowls, cups, utensils
+
+## Bathroom
