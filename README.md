@@ -17,6 +17,14 @@ HOUSE RANTHONY
 
 * dining table (conference table)
 
+```ruby
+if house.popular?
+  chair * 6
+else
+  chair * 4
+end
+```
+
 ## Kitchen
 
 ### Have
