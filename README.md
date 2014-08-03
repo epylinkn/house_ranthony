@@ -18,6 +18,7 @@ HOUSE RANTHONY
 
 * plates, bowls, cups, utensils
 * dish /dryer rack
+* cabinet mats
 * nice knife
 * ice cube trays
 * slow cooker for pulled pork / pot roast =P
@@ -35,6 +36,10 @@ HOUSE RANTHONY
 * floor lamp
 * desk chair
 * office mat
+
+## Misc
+
+* exacto knife
 
 trader joes:
 kerrygold butter
