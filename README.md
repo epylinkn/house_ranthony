@@ -12,7 +12,7 @@ HOUSE RANTHONY
 
 ## Dining Room
 
-* dining chair x6
+* dining chair x6 or 2 benches?
 
 ## Kitchen
 
