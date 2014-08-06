@@ -16,8 +16,6 @@ HOUSE RANTHONY
 
 ## Kitchen
 
-* plates, bowls, cups, utensils
-* dish /dryer rack
 * cabinet mats
 * nice knife
 * ice cube trays
@@ -40,8 +38,3 @@ HOUSE RANTHONY
 ## Misc
 
 * exacto knife
-
-trader joes:
-kerrygold butter
-food and condiments and sauces
-honey
